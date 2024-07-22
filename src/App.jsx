@@ -4,12 +4,13 @@ import { darkTheme } from "./utils/Themes";
 import { NavBar } from "./components/NavBar";
 import { BrowserRouter, Router } from "react-router-dom";
 import Hero from "./components/sections/Hero";
+import Skills from "./components/sections/Skills";
 
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
   color: ${({ theme }) => theme.text_primary};
   width: 100%;
-  height: 90vh;
+  height: 100vh;
   overflow-x: hidden;
   position: relative;
 `;
@@ -21,6 +22,7 @@ function App() {
         <NavBar />
         <Body>
           <Hero />
+          <Skills />
         </Body>
       </BrowserRouter>
     </ThemeProvider>

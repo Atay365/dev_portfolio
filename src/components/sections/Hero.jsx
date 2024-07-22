@@ -3,6 +3,14 @@ import styled from "styled-components";
 import { Bio } from "../../data/constants";
 import Typewriter from "typewriter-effect";
 import HeroImg from "../../images/HeroImg.jpeg";
+import { Tilt } from "react-tilt";
+import { motion } from "framer-motion";
+import {
+  headContainerAnimation,
+  headContentAnimation,
+  headTextAnimation,
+} from "../../utils/motion";
+import StarCanvas from "../canvas/Stars";
 
 const HeroContainer = styled.div`
   display: flex;
@@ -132,7 +140,12 @@ const ResumeButton = styled.a`
   text-align: center;
   padding: 1rem 0;
 
-  background: hsla(271, 100%, 50%, 1);
+  background: linear-gradient(
+    146deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(90, 90, 90, 1) 57%,
+    rgba(208, 208, 208, 1) 100%
+  );
   border-radius: 50px;
   font-size: 1.125rem;
   font-weight: 600;
@@ -162,30 +175,59 @@ const Img = styled.img`
   }
 `;
 
+const HeroBg = styled.div`
+  position: absolute;
+  display: flex;
+  top: 0;
+  right: 50%;
+  bottom: 0;
+  left: 50%;
+  width: 100%;
+  height: 100%;
+  max-width: 1360px;
+  justify-content: end;
+`;
+
 const Hero = () => {
   return (
     <div id="about">
       <HeroContainer>
-        <HeroInnerContainer>
-          <HeroLeftContainer>
-            <Title>
-              Hi I'm <br /> {Bio.name}
-            </Title>
-            <TextLoop>
-              I am a
-              <Span>
-                <Typewriter
-                  options={{ strings: Bio.roles, autoStart: true, loop: true }}
-                />
-              </Span>
-            </TextLoop>
-            <SubTitle>{Bio.description}</SubTitle>
-            <ResumeButton>Checkout Resume</ResumeButton>
-          </HeroLeftContainer>
-          <HeroRightContainer>
-            <Img src={HeroImg} />
-          </HeroRightContainer>
-        </HeroInnerContainer>
+        <StarCanvas />
+        <HeroBg></HeroBg>
+        <motion.div {...headContainerAnimation}>
+          <HeroInnerContainer>
+            <HeroLeftContainer>
+              <motion.div {...headTextAnimation}>
+                <Title>
+                  Hi I'm <br /> {Bio.name}
+                </Title>
+              </motion.div>
+              <TextLoop>
+                I am a
+                <Span>
+                  <Typewriter
+                    options={{
+                      strings: Bio.roles,
+                      autoStart: true,
+                      loop: true,
+                    }}
+                  />
+                </Span>
+              </TextLoop>
+              <motion.div {...headContentAnimation}>
+                <SubTitle>{Bio.description}</SubTitle>
+              </motion.div>
+              <ResumeButton>Checkout Resume</ResumeButton>
+            </HeroLeftContainer>
+            <HeroRightContainer>
+              <motion.div {...headContentAnimation}>
+                <Tilt>
+                  <Img src={HeroImg} />
+                </Tilt>
+              </motion.div>
+            </HeroRightContainer>
+          </HeroInnerContainer>
+        </motion.div>
       </HeroContainer>
     </div>
   );
