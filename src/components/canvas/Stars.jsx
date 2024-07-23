@@ -9,7 +9,7 @@ const StyledCanvasWrapper = styled.div`
   height: auto;
   position: absolute;
   inset: 0;
-  z-index: -10000;
+  z-index: -1000;
 `;
 
 const Stars = (props) => {

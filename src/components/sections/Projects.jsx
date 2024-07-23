@@ -1,9 +1,7 @@
-import { styled } from "styled-components";
 import React from "react";
-import { VerticalTimeline } from "react-vertical-timeline-component";
-import "react-vertical-timeline-component/style.min.css";
-import { experiences } from "../../data/constants";
-import ExperienceCard from "../cards/ExperienceCard";
+import styled from "styled-components";
+import { projects } from "../../data/constants";
+import ProjectCard from "../cards/ProjectCard";
 
 const Container = styled.div`
   display: flex;
@@ -13,6 +11,7 @@ const Container = styled.div`
   z-index: 1;
   align-items: center;
   margin-bottom: 2rem;
+  padding: 16px 0;
 `;
 const Wrapper = styled.div`
   display: flex;
@@ -48,24 +47,28 @@ const Desc = styled.div`
     font-size: 0.75rem;
   }
 `;
+const CardContainer = styled.div`
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 28px;
+  flex-wrap: wrap;
+`;
 
-const Experience = () => {
+const Projects = () => {
   return (
-    <Container id="Experience">
+    <Container id="Projects">
       <Wrapper>
-        <Title>Experience</Title>
-        <Desc>Blah Blah Blah</Desc>
-        <VerticalTimeline>
-          {experiences.map((experience, index) => (
-            <ExperienceCard
-              experience={experience}
-              key={`experience-${index}`}
-            />
+        <Title>Projects</Title>
+        <Desc>Yea yea yedfa</Desc>
+        <CardContainer>
+          {projects.map((project, index) => (
+            <ProjectCard project={project} key={`project-${index}`} />
           ))}
-        </VerticalTimeline>
+        </CardContainer>
       </Wrapper>
     </Container>
   );
 };
 
-export default Experience;
+export default Projects;

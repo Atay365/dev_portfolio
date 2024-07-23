@@ -26,7 +26,7 @@ const HeroContainer = styled.div`
     padding: 32px 16px;
   }
 
-  clip-path: polygon(0 0, 100% 0, 100% 100%, 70% 100%, 0 100%);
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 70% 90%, 0 100%);
 `;
 const HeroInnerContainer = styled.div`
   postion: relative;
@@ -160,6 +160,8 @@ const ResumeButton = styled.a`
     padding: 12px 0;
     font-size: 1.125rem;
   }
+
+  margin-bottom: 2rem;
 `;
 const Img = styled.img`
   border-radius: 50%;
