@@ -139,6 +139,7 @@ const ResumeButton = styled.a`
   max-width: 300px;
   text-align: center;
   padding: 1rem 0;
+  color: white;
 
   background: linear-gradient(
     146deg,
@@ -193,7 +194,7 @@ const HeroBg = styled.div`
 const Hero = () => {
   return (
     <div id="about">
-      <HeroContainer>
+      <HeroContainer id="About">
         <StarCanvas />
         <HeroBg></HeroBg>
         <motion.div {...headContainerAnimation}>
@@ -219,7 +220,9 @@ const Hero = () => {
               <motion.div {...headContentAnimation}>
                 <SubTitle>{Bio.description}</SubTitle>
               </motion.div>
-              <ResumeButton>Checkout Resume</ResumeButton>
+              <ResumeButton href={Bio.resume} target="_blank">
+                Checkout Resume
+              </ResumeButton>
             </HeroLeftContainer>
             <HeroRightContainer>
               <motion.div {...headContentAnimation}>

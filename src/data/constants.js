@@ -10,11 +10,9 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/atay365",
   resume:
-    "https://drive.google.com/file/d/1txFKZD3LNIXMc329jD9c995AU8LItOXK/view?usp=drive_link",
+    "https://docs.google.com/document/d/1iwRZ0nSxBO0Ezp_QAMIM3J4tXL6c_sZMGb9gsgVg5BU/edit?usp=sharing",
   linkedin: "https://www.linkedin.com/in/derrick-a-taylor/",
-  twitter: "https://twitter.com/RishavChanda",
-  insta: "https://www.instagram.com/rishav_chanda/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+  facebook: "https://www.facebook.com/austin.taylor.1253/",
 };
 
 export const skills = [
