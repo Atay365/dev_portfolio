@@ -66,16 +66,7 @@ export const skills = [
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
       },
-      // {
-      //   name: "Flask",
-      //   image:
-      //     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png",
-      // },
-      // {
-      //   name: "Django",
-      //   image:
-      //     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlFFyY16N5NRhzoG24RqB7x8Ok2t8Bdgs-tuMsOBXS2Q&s",
-      // },
+
       {
         name: "MySQL",
         image:
@@ -101,31 +92,7 @@ export const skills = [
   //       image:
   //         "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
   //     },
-  //     {
-  //       name: "Tenserflow",
-  //       image:
-  //         "https://static-00.iconduck.com/assets.00/tensorflow-icon-1911x2048-1m2s54vn.png",
-  //     },
-  //     {
-  //       name: "Keras",
-  //       image:
-  //         "https://miro.medium.com/v2/resize:fit:600/1*DKu_54iqz6C-p6ndo7rO3g.png",
-  //     },
-  //     {
-  //       name: "Jupyter",
-  //       image:
-  //         "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png",
-  //     },
-  //     {
-  //       name: "Google Colab",
-  //       image:
-  //         "https://assets.stickpng.com/images/63c2e4c9c4baad4ce22bf9ef.png",
-  //     },
-  //     {
-  //       name: "Sk Learn Kit",
-  //       image:
-  //         "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png",
-  //     },
+  //
   //   ],
   // },
   {
@@ -173,15 +140,7 @@ export const experiences = [
     company: "Accenture",
     date: "July 2022 - Mar 2024",
     desc: "Led data analysis for a groundbreaking greenfield facility project, integrating multiple business sectors to enhance operational synergy. Spearheaded the development of a fully robotic Automated Storage and Retrieval System (ASRS), revolutionizing labor-free operations from inbound to outbound processes. Played a key role in a $100 million project, focusing on automation and efficiency. Actively involved in overhauling Warehouse Management Systems (WMS), ensuring seamless integration and operation. Fostered collaborations with automation vendors, conducted feasibility studies, and optimized processes across various industries.",
-    skills: [
-      "ReactJS",
-      "Redux",
-      "NodeJs",
-      "Material UI",
-      "HTML",
-      "CSS",
-      "JavaScript",
-    ],
+    skills: [],
     doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
   },
   {
@@ -191,18 +150,7 @@ export const experiences = [
     company: "DHL Supply Chain",
     date: "Sep 2021 - Aug 2022",
     desc: "Managed operational directives for 30 employees in various support roles. Led an FDA-mandated batch traceability project, reducing quality hold financial impact by 50%. Collaborated with managers to plan labor, create glide paths, and arrange hiring events. Developed Power BI dashboards to manage and present complex data, enhancing team and customer insights.",
-    skills: [
-      "Docker",
-      "Terraform",
-      "AWS",
-      "EC2",
-      "Portainer",
-      "Nginx",
-      "JavaScript",
-      "TypeScript",
-      "Node Js",
-      " Next Js",
-    ],
+    skills: [],
     doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1696514649120.jpeg?alt=media&token=e7f6757b-edfa-4138-a692-d6709eeef3e2",
   },
   {
@@ -212,16 +160,7 @@ export const experiences = [
     company: "DHL Supply Chain",
     date: "Sep 2020 - Sep 2021",
     desc: "Implemented batch traceability to meet FDA requirements, integrating JDA WMS with SAP EWM to maximize efficiency. Reconciled systems to maintain a 99.5% inventory accuracy KPI, resulting in significant cost savings. Led a building relocation, maintaining inventory accuracy, and served as the site lead during a system transition, identifying and resolving bugs.",
-    skills: [
-      "Android",
-      "Java",
-      "Kotlin",
-      "XML",
-      "Node Js",
-      "Cloud Firestore",
-      "Firebase",
-      "Figma",
-    ],
+    skills: [],
     doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/WhatsApp%20Image%202023-05-05%20at%2012.07.39%20AM.jpeg?alt=media&token=9f0e1648-568b-422d-bd0b-1f125f722245",
   },
   {
@@ -231,18 +170,7 @@ export const experiences = [
     company: "Flipr",
     date: "Jan 2020 - Sep 2020",
     desc: "Managed a team of 25 associates to meet daily goals for inbound and outbound trailers. Evaluated productivity and provided feedback, delivering weekly reports on shift metrics and suggesting performance improvements. Ensured adherence to targets through daily analysis of the warehouse management system.",
-    skills: [
-      "ReactJS",
-      "Redux",
-      "NodeJs",
-      "Material UI",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Docker",
-      "AWS",
-      "MongoDB",
-    ],
+    skills: [],
     doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1691181448873.jpeg?alt=media&token=ee85eb8f-7247-43cd-9a1d-ce9f58ea62a6",
   },
   {
@@ -252,13 +180,7 @@ export const experiences = [
     company: "DHL Supply Chain",
     date: "Jan 2019 - Jan 2020",
     desc: "Managed expense reports, invoices, and collaborated on yearly budgets. Maintained P/Ls and conducted period-end close activities. Created and distributed monthly customer invoices and produced regular performance reports and dashboards. Advised teams to exceed goals aligned with company strategy, driving efficiency and cost savings.",
-    skills: [
-      "Leadership",
-      "Mobile Application Development",
-      "Kotlin",
-      "XML",
-      "Figma",
-    ],
+    skills: [],
   },
 ];
 
@@ -268,7 +190,7 @@ export const education = [
     img: "https://firebasestorage.googleapis.com/v0/b/austin-2024-portfolio.appspot.com/o/BrainStation_logo.png?alt=media&token=61c86812-1d81-473b-bfe7-4459f23ecf5d",
     school: "BrainStation",
     date: "Apr 2024 - Jul 2024",
-    grade: "8.41 CGPA",
+    grade: "",
     desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
     degree: "Diploma, Software Engineering",
   },
@@ -293,14 +215,7 @@ export const projects = [
       "Pickleball Pal and Scorekeeper is a web application designed for pickleball enthusiasts. The application allows users to find nearby pickleball courts using their current location and provides a convenient way to keep score during matches. Users can log in, enter their opponents' names, keep track of scores in real-time, and view game history after each match. It enhances the pickleball playing experience by combining location-based services and match management in one user-friendly platform. Also it's nice to have the receipts while talking a bit of smack on the courts!",
     image:
       "https://firebasestorage.googleapis.com/v0/b/austin-2024-portfolio.appspot.com/o/Screenshot%202024-07-24%20at%209.06.19%E2%80%AFAM.png?alt=media&token=86c8d85b-e3da-4ae8-86b7-1116c41e6d52",
-    tags: [
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "NodeMailer",
-    ],
+    tags: ["React Js", "MySql", "Node Js", "Express Js", "Chart.js"],
     category: "web app",
     github: "https://github.com/Atay365/pickleball-pal",
     webapp: "https://pickleball-pal.netlify.app/",
@@ -313,19 +228,7 @@ export const projects = [
       "Application that is meant to replicate the style of Spotify. The application utilizes 5 endpoints Spotify API in order to show the artist searched information such as tops songs, albums, related artist and images.  ",
     image:
       "https://firebasestorage.googleapis.com/v0/b/austin-2024-portfolio.appspot.com/o/Screenshot%202024-07-24%20at%208.20.37%E2%80%AFAM.png?alt=media&token=c50c2809-2517-482a-8955-d87e116c5f4d",
-    tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
-      "Eslint",
-      "Husky",
-      "CI/CD",
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-    ],
+    tags: ["React Js", "MySql", "Node Js", "Express Js"],
     category: "web app",
     github: "https://github.com/Atay365/dive-into-your-fav-artist",
     webapp: "https://trackify-management.netlify.app/",
@@ -338,16 +241,9 @@ export const projects = [
       "This project was developed as part of a 24-hour hackathon organized by American Express. Our solution focuses on educating American Express users about fraud prevention through an interactive quiz integrated into the existing American Express app. Successful completion of the quiz rewards users with American Express points, incentivizing participation and enhancing user engagement.",
     image:
       "https://firebasestorage.googleapis.com/v0/b/austin-2024-portfolio.appspot.com/o/Untitled.png?alt=media&token=96edbe26-2292-43cc-a627-35c933fc95bf",
-    tags: [
-      "React Js",
-      "PostgressSQL",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "React Flow",
-    ],
+    tags: ["React Js", "Node Js", "Express Js"],
     category: "web app",
-    github: "https://github.com/rishavchanda/DecisionHub",
+    github: "https://github.com/Atay365/industry-project-ae",
     webapp: "https://decisionhub.netlify.app/",
   },
   {
@@ -356,20 +252,11 @@ export const projects = [
     date: "2024",
     description:
       "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+    image: "",
+    tags: ["React Js", "MySql", "Node Js", "Express Js", "Knex.js"],
     category: "web app",
     github: "https://github.com/Atay365/industry-project-ae",
-    webapp: "https://podstream.netlify.app/",
+    webapp: "",
     member: [],
   },
-];
-
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
 ];
