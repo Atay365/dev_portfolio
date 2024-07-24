@@ -255,7 +255,7 @@ export const projects = [
     image: "",
     tags: ["React Js", "MySql", "Node Js", "Express Js", "Knex.js"],
     category: "web app",
-    github: "https://github.com/Atay365/industry-project-ae",
+    github: "https://github.com/Atay365/apr24-instock-frontend",
     webapp: "",
     member: [],
   },
