@@ -43,6 +43,11 @@ export const skills = [
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
       },
+      {
+        name: "Vite",
+        image:
+          "https://firebasestorage.googleapis.com/v0/b/austin-2024-portfolio.appspot.com/o/64px-Vitejs-logo.svg.png?alt=media&token=8545ea6d-5d75-4716-be4b-0319a0ea09c9",
+      },
     ],
   },
   {
