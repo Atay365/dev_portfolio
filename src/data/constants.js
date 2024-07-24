@@ -7,7 +7,7 @@ export const Bio = {
     "Husband",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I am a driven and adaptable Full Stack Developer with a background in Supply Chain Engineering. My passion for learning and dedication to delivering high-quality solutions define my approach. With a positive attitude and a growth mindset, I am excited to contribute meaningfully and achieve remarkable results in my next role.",
   github: "https://github.com/atay365",
   resume:
     "https://docs.google.com/document/d/1iwRZ0nSxBO0Ezp_QAMIM3J4tXL6c_sZMGb9gsgVg5BU/edit?usp=sharing",
@@ -168,11 +168,11 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
-    role: "Frontend Engineer Intern",
-    company: "Neurobit",
-    date: "June 2023 - Nov 2023",
-    desc: "Enhanced user experiences on Neurobit PSG & Hybrid, Portals by resolving bugs & reduced load time by 40%. Built Neurobit Analytics portal using React Js with seamless interaction of REST APIs using AXIOS optimized with React Query. Refactored previous code to TypeScript, updated with new dependency and integrated Vite with Jest for Unit Testing.",
+    img: "https://firebasestorage.googleapis.com/v0/b/austin-2024-portfolio.appspot.com/o/Accenture-Logo-Fyuz-724.webp?alt=media&token=5f26b325-145e-42b5-b8ed-af19c211bfd7",
+    role: "Supply Chain Engineer Consultant",
+    company: "Accenture",
+    date: "July 2022 - Mar 2024",
+    desc: "Led data analysis for a groundbreaking greenfield facility project, integrating multiple business sectors to enhance operational synergy. Spearheaded the development of a fully robotic Automated Storage and Retrieval System (ASRS), revolutionizing labor-free operations from inbound to outbound processes. Played a key role in a $100 million project, focusing on automation and efficiency. Actively involved in overhauling Warehouse Management Systems (WMS), ensuring seamless integration and operation. Fostered collaborations with automation vendors, conducted feasibility studies, and optimized processes across various industries.",
     skills: [
       "ReactJS",
       "Redux",
@@ -186,11 +186,11 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "DevOps & Fullstack Engineering Intern",
-    company: "Flipr Inovations Pvt. Ltd.",
-    date: "Aug 2023 - Oct 2023",
-    desc: "Built Flipr Connect Platforms using React Js integrated GraphQL with AXIOS, created High level Design and Figma design. Built Backend with GraphQL and Node JS and connected with MongoDb - Reducing API calls by 20%. Dockerized and automated with Kubernetes & Jenkins CI/CD deployed in AWS-EC2 added Prometheus & Grafana for monitoring.",
+    img: "https://firebasestorage.googleapis.com/v0/b/austin-2024-portfolio.appspot.com/o/DHL_logo_PNG8.png?alt=media&token=2fd7b87c-a640-4d3a-a36a-a9e8556fa800",
+    role: "Operations Manager",
+    company: "DHL Supply Chain",
+    date: "Sep 2021 - Aug 2022",
+    desc: "Managed operational directives for 30 employees in various support roles. Led an FDA-mandated batch traceability project, reducing quality hold financial impact by 50%. Collaborated with managers to plan labor, create glide paths, and arrange hiring events. Developed Power BI dashboards to manage and present complex data, enhancing team and customer insights.",
     skills: [
       "Docker",
       "Terraform",
@@ -207,11 +207,11 @@ export const experiences = [
   },
   {
     id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Rudraksha.jpeg?alt=media&token=8f83f41e-d0a1-486f-9c7f-dd4cd1d09e8d",
-    role: "Android Developer Intern",
-    company: "Rudraksha Welffare Foundation",
-    date: "June 2021 - Oct 2021",
-    desc: "• Built RudraShakti - Astrologer App, with MVVM Architecture using Java and Android Studio integrating Firebase SDK. Created One to One video call integration with Socket.IO and Firebase cloud functions and integrated with Retrofit. Created Low Level Design and converted Figma design to XML code.",
+    img: "https://firebasestorage.googleapis.com/v0/b/austin-2024-portfolio.appspot.com/o/DHL_logo_PNG8.png?alt=media&token=2fd7b87c-a640-4d3a-a36a-a9e8556fa800",
+    role: "Inventory Control Supervisor",
+    company: "DHL Supply Chain",
+    date: "Sep 2020 - Sep 2021",
+    desc: "Implemented batch traceability to meet FDA requirements, integrating JDA WMS with SAP EWM to maximize efficiency. Reconciled systems to maintain a 99.5% inventory accuracy KPI, resulting in significant cost savings. Led a building relocation, maintaining inventory accuracy, and served as the site lead during a system transition, identifying and resolving bugs.",
     skills: [
       "Android",
       "Java",
@@ -226,11 +226,11 @@ export const experiences = [
   },
   {
     id: 3,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "Fullstack Externship",
+    img: "https://firebasestorage.googleapis.com/v0/b/austin-2024-portfolio.appspot.com/o/DHL_logo_PNG8.png?alt=media&token=2fd7b87c-a640-4d3a-a36a-a9e8556fa800",
+    role: "Operations Supervisor",
     company: "Flipr",
-    date: "June 2023 - July 2023",
-    desc: "Built an employee management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the program.",
+    date: "Jan 2020 - Sep 2020",
+    desc: "Managed a team of 25 associates to meet daily goals for inbound and outbound trailers. Evaluated productivity and provided feedback, delivering weekly reports on shift metrics and suggesting performance improvements. Ensured adherence to targets through daily analysis of the warehouse management system.",
     skills: [
       "ReactJS",
       "Redux",
@@ -247,11 +247,11 @@ export const experiences = [
   },
   {
     id: 4,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/gdsc.jpeg?alt=media&token=c162329c-efaa-4be8-a173-8d3f4c48ea70",
-    role: "Android Developer",
-    company: "DSC KIIT",
-    date: "Nov2021 - Present",
-    desc: "As an Android developer at the Google Developers Student Club (GDCS), I have had the opportunity to work on exciting projects and collaborate with talented developers who share my passion for technology. Through my involvement with GDCS, I have also had the opportunity to host and participate in numerous events, including hackathons, study jams, and workshops.",
+    img: "https://firebasestorage.googleapis.com/v0/b/austin-2024-portfolio.appspot.com/o/DHL_logo_PNG8.png?alt=media&token=2fd7b87c-a640-4d3a-a36a-a9e8556fa800",
+    role: "Operational Business Analyst",
+    company: "DHL Supply Chain",
+    date: "Jan 2019 - Jan 2020",
+    desc: "Managed expense reports, invoices, and collaborated on yearly budgets. Maintained P/Ls and conducted period-end close activities. Created and distributed monthly customer invoices and produced regular performance reports and dashboards. Advised teams to exceed goals aligned with company strategy, driving efficiency and cost savings.",
     skills: [
       "Leadership",
       "Mobile Application Development",
@@ -260,75 +260,59 @@ export const experiences = [
       "Figma",
     ],
   },
-  {
-    id: 5,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
-    role: "Open Source Contributor ",
-    company: "GirlScript Summer of Code",
-    date: "May 2023 - Present",
-    desc: "Contributed to different open-source projects and learn from industry experts",
-  },
 ];
 
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
-    school: "Kalinga Institute of Industrial Technology, Bhubaneswar",
-    date: "Oct 2021 - Sep 2025",
+    img: "https://firebasestorage.googleapis.com/v0/b/austin-2024-portfolio.appspot.com/o/BrainStation_logo.png?alt=media&token=61c86812-1d81-473b-bfe7-4459f23ecf5d",
+    school: "BrainStation",
+    date: "Apr 2024 - Jul 2024",
     grade: "8.41 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
-    degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
+    degree: "Diploma, Software Engineering",
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-    school: "Methodist School, Dankuni",
-    date: "Apr 2019 - Apr 2025",
-    grade: "88.2%",
+    img: "https://firebasestorage.googleapis.com/v0/b/austin-2024-portfolio.appspot.com/o/Alabama_Crimson_Tide_logo.svg.png?alt=media&token=e6fecf6e-ee7b-4a3f-9d57-548eb78d3a11",
+    school: "University of Alabama",
+    date: "Aug 2014 - Dec 2018",
+    grade: "94.38%",
     desc: "I completed my class 12 high school education at Methodist School, Dankuni, where I studied Science with Computer Science.",
-    degree: "ISC(XII), Science with Computer",
-  },
-  {
-    id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-    school: "Methodist School, Dankuni",
-    date: "Apr 2017 - Apr 2019",
-    grade: "92.3%",
-    desc: "I completed my class 10 education at Methodist School, Dankuni, where I studied Science with Computer Application.",
-    degree: "ICSC(X), Science with Computer",
+    degree:
+      "Bachelor of Science Commerce and Business Administration - Operations Management",
   },
 ];
 
 export const projects = [
   {
-    id: 11,
-    title: "DecisionHub",
-    date: "Jan 2024 - Dec 2023",
+    id: 1,
+    title: "Pickleball Pal",
+    date: "2024",
     description:
-      "A Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
+      "Pickleball Pal and Scorekeeper is a web application designed for pickleball enthusiasts. The application allows users to find nearby pickleball courts using their current location and provides a convenient way to keep score during matches. Users can log in, enter their opponents' names, keep track of scores in real-time, and view game history after each match. It enhances the pickleball playing experience by combining location-based services and match management in one user-friendly platform. Also it's nice to have the receipts while talking a bit of smack on the courts!",
     image:
-      "https://github.com/rishavchanda/DecisionHub/raw/master/assets/testRule.jpg",
+      "https://firebasestorage.googleapis.com/v0/b/austin-2024-portfolio.appspot.com/o/Screenshot%202024-07-24%20at%209.06.19%E2%80%AFAM.png?alt=media&token=86c8d85b-e3da-4ae8-86b7-1116c41e6d52",
     tags: [
       "React Js",
-      "PostgressSQL",
+      "MongoDb",
       "Node Js",
       "Express Js",
       "Redux",
-      "React Flow",
+      "NodeMailer",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/DecisionHub",
-    webapp: "https://decisionhub.netlify.app/",
+    github: "https://github.com/Atay365/pickleball-pal",
+    webapp: "https://pickleball-pal.netlify.app/",
   },
   {
     id: 9,
-    title: "Trackify",
-    date: "Jun 2023 - Jul 2023",
+    title: "Dive Into Your Fav Artist",
+    date: "2024",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "Application that is meant to replicate the style of Spotify. The application utilizes 5 endpoints Spotify API in order to show the artist searched information such as tops songs, albums, related artist and images.  ",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "https://firebasestorage.googleapis.com/v0/b/austin-2024-portfolio.appspot.com/o/Screenshot%202024-07-24%20at%208.20.37%E2%80%AFAM.png?alt=media&token=c50c2809-2517-482a-8955-d87e116c5f4d",
     tags: [
       "Docker",
       "AWS",
@@ -343,173 +327,42 @@ export const projects = [
       "Redux",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
+    github: "https://github.com/Atay365/dive-into-your-fav-artist",
     webapp: "https://trackify-management.netlify.app/",
   },
   {
+    id: 11,
+    title: "American Express Hackathon",
+    date: "2024",
+    description:
+      "This project was developed as part of a 24-hour hackathon organized by American Express. Our solution focuses on educating American Express users about fraud prevention through an interactive quiz integrated into the existing American Express app. Successful completion of the quiz rewards users with American Express points, incentivizing participation and enhancing user engagement.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/austin-2024-portfolio.appspot.com/o/Untitled.png?alt=media&token=96edbe26-2292-43cc-a627-35c933fc95bf",
+    tags: [
+      "React Js",
+      "PostgressSQL",
+      "Node Js",
+      "Express Js",
+      "Redux",
+      "React Flow",
+    ],
+    category: "web app",
+    github: "https://github.com/rishavchanda/DecisionHub",
+    webapp: "https://decisionhub.netlify.app/",
+  },
+  {
     id: 0,
-    title: "Podstream",
-    date: "Apr 2023 - May 2023",
+    title: "Instock",
+    date: "2024",
     description:
       "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
     image:
       "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
+    github: "https://github.com/Atay365/industry-project-ae",
     webapp: "https://podstream.netlify.app/",
-    member: [
-      {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-    ],
-  },
-  {
-    id: 1,
-    title: "Vexa",
-    date: "Oct 2022 - Jan 2023",
-    description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
-    tags: [
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "NodeMailer",
-    ],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
-  },
-  {
-    id: 2,
-    title: "Brain Tumor Detection",
-    date: "Jan 2023 - Mar 2023",
-    description:
-      "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
-    image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-    category: "machine learning",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-    webapp: "https://brain-tumor.netlify.app/",
-    member: [
-      {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-    ],
-  },
-  {
-    id: 3,
-    title: "Buckoid",
-    date: "Dec 2021 - Apr 2022",
-    description:
-      "App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
-    image:
-      "https://camo.githubusercontent.com/3ad28aa710d18525f1fc87de056ed53c706d09979589bfd5a773df36653bad38/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
-    tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
-    category: "android app",
-    github: "https://github.com/rishavchanda/Buckoid-Android-App",
-    webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
-  },
-  {
-    id: 10,
-    title: "Job Finding App",
-    date: "Jun 2023 - Jul 2023",
-    description:
-      "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
-    tags: ["React Native", "JavaScript", "Axios"],
-    category: "android app",
-    github: "https://github.com/rishavchanda/Job-finder-App",
-    webapp: "https://github.com/rishavchanda/Job-finder-App",
-  },
-  {
-    id: 4,
-    title: "Whatsapp Clone",
-    date: "Jul 2021",
-    description:
-      "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-    tags: ["React Js", "Firebase", "Firestore", "Node JS"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-    webapp: "https://whatsapp-clone-rishav.web.app",
-  },
-  {
-    id: 5,
-    title: "Todo Web App",
-    date: "Jun 2021",
-    description:
-      " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
-    image:
-      "https://camo.githubusercontent.com/84ac6ab6f378348ef28d8184062b7e9e3511a1252ae3966eaa49e8e998f732a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-    tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Todo-Web-App",
-    webapp: "https://rishav-react-todo.netlify.app/",
-  },
-  {
-    id: 6,
-    title: "Breaking Bad",
-    date: "Jun 2021",
-    description:
-      "A simple react app that shows the characters of the famous TV series Breaking Bad. It uses the Breaking Bad API to fetch the data. It also has a search bar to search for a particular character.",
-    image:
-      "https://camo.githubusercontent.com/937774368308a82419f53dd6eeb4a8675780e119636488b4e3cfe5d34859a72a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f7425323028313534292e706e673f616c743d6d6564696126746f6b656e3d65613439383630632d303435362d343333342d616435372d336239346663303333363263",
-    tags: ["React Js", "API", "Axios", "Node JS"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Breaking-Bad",
-    webapp: "https://breaking-bad-webapp.netlify.app",
-  },
-  {
-    id: 7,
-    title: "Quiz App",
-    date: "Dec 2020 - Jan 2021",
-    description:
-      "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
-    image:
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
-    tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
-    category: "android app",
-    github: "https://github.com/rishavchanda/Quiz-Earn",
-    webapp: "https://github.com/rishavchanda/Quiz-Earn",
-  },
-  {
-    id: 8,
-    title: "Face Recognition",
-    date: "Jan 2021",
-    description:
-      "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
-    image:
-      "https://dontrepeatyourself.org/media/face-recognition-with-python-dlib-and-deep-learning_cezKZBj.png",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-    category: "machine learning",
-    github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    member: [],
   },
 ];
 

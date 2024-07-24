@@ -60,7 +60,7 @@ const Projects = () => {
     <Container id="Projects">
       <Wrapper>
         <Title>Projects</Title>
-        <Desc>Yea yea yedfa</Desc>
+        <Desc>Here is some of my recent work!</Desc>
         <CardContainer>
           {projects.map((project, index) => (
             <ProjectCard project={project} key={`project-${index}`} />

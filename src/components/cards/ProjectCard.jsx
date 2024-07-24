@@ -25,14 +25,17 @@ const Image = styled.img`
   height: 180px;
   border-radius: 10px;
   background-color: white;
+  object-fit: cover;
 `;
 const Tags = styled.div`
   width: 100%;
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  gap: 8px;
+  gap: 12px;
   margin-top: 6px;
+  font-size: 0.75rem;
+  color: ${({ theme }) => theme.text_secondary + 99};
 `;
 const Details = styled.div`
   width: 100%;

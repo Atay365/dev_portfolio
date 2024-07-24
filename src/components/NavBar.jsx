@@ -124,7 +124,7 @@ export const NavBar = () => {
   return (
     <Nav>
       <NavbarContainer>
-        <NavLogo to="/">Austin's Portfolio</NavLogo>
+        <NavLogo to="/">Portfolio</NavLogo>
 
         <MobileNavIcon onClick={() => setIsOpen(!isOpen)}>
           <MenuRounded style={{ color: "inherit" }} />

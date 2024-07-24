@@ -69,7 +69,11 @@ const ExperienceCard = ({ experience }) => {
           height="100%"
           alt={experience.company}
           src={experience.img}
-          style={{ borderRadius: "50%", objectFit: "cover" }}
+          style={{
+            borderRadius: "50%",
+            objectFit: "cover",
+            background: "white",
+          }}
         />
       }
       contentStyle={{

@@ -54,7 +54,7 @@ const Experience = () => {
     <Container id="Experience">
       <Wrapper>
         <Title>Experience</Title>
-        <Desc>Blah Blah Blah</Desc>
+        <Desc>Take a look at a my past experiences!</Desc>
         <VerticalTimeline>
           {experiences.map((experience, index) => (
             <ExperienceCard

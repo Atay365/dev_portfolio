@@ -54,7 +54,7 @@ const Education = () => {
     <Container id="Education">
       <Wrapper>
         <Title>Education</Title>
-        <Desc>Blah Blah Blah</Desc>
+        <Desc></Desc>
         <VerticalTimeline>
           {education.map((education, index) => (
             <EducationCard education={education} key={`education-${index}`} />
