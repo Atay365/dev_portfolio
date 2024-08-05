@@ -10,7 +10,7 @@ export const Bio = {
     "I am a driven and adaptable Full Stack Developer with a background in Supply Chain Engineering. My passion for learning and dedication to delivering high-quality solutions define my approach. With a positive attitude and a growth mindset, I am excited to contribute meaningfully and achieve remarkable results in my next role.",
   github: "https://github.com/atay365",
   resume:
-    "https://docs.google.com/document/d/1iwRZ0nSxBO0Ezp_QAMIM3J4tXL6c_sZMGb9gsgVg5BU/edit?usp=sharing",
+    "https://docs.google.com/document/d/1iFQPJ2YipucON78XsxxpflmfXxOSfUmPLUOO157ivZs/edit?usp=sharing",
   linkedin: "https://www.linkedin.com/in/derrick-a-taylor/",
   facebook: "https://www.facebook.com/austin.taylor.1253/",
 };
