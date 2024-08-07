@@ -236,7 +236,7 @@ export const projects = [
     tags: ["React Js", "MySql", "Node Js", "Express Js"],
     category: "web app",
     github: "https://github.com/Atay365/dive-into-your-fav-artist",
-    webapp: "https://trackify-management.netlify.app/",
+    webapp: "",
   },
   {
     id: 11,
@@ -249,7 +249,7 @@ export const projects = [
     tags: ["React Js", "Node Js", "Express Js"],
     category: "web app",
     github: "https://github.com/Atay365/industry-project-ae",
-    webapp: "https://decisionhub.netlify.app/",
+    webapp: "",
   },
   {
     id: 0,
@@ -257,11 +257,12 @@ export const projects = [
     date: "2024",
     description:
       "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
-    image: "",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/austin-2024-portfolio.appspot.com/o/Screenshot%202024-08-06%20at%202.37.42%E2%80%AFPM.png?alt=media&token=9ce97095-6e55-4b87-93fa-9e1e4b37214b",
     tags: ["React Js", "MySql", "Node Js", "Express Js", "Knex.js"],
     category: "web app",
     github: "https://github.com/Atay365/apr24-instock-frontend",
-    webapp: "",
+    webapp: "https://instock-yg.netlify.app/",
     member: [],
   },
 ];
