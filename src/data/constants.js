@@ -226,7 +226,7 @@ export const projects = [
     webapp: "https://pickleball-pal.netlify.app/",
   },
   {
-    id: 9,
+    id: 2,
     title: "Dive Into Your Fav Artist",
     date: "2024",
     description:
@@ -239,7 +239,7 @@ export const projects = [
     webapp: "",
   },
   {
-    id: 11,
+    id: 3,
     title: "American Express Hackathon",
     date: "2024",
     description:
@@ -252,7 +252,7 @@ export const projects = [
     webapp: "",
   },
   {
-    id: 0,
+    id: 4,
     title: "Instock",
     date: "2024",
     description:
@@ -263,6 +263,20 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Atay365/apr24-instock-frontend",
     webapp: "https://instock-yg.netlify.app/",
+    member: [],
+  },
+  {
+    id: 5,
+    title: "The Neat Aesthetic",
+    date: "2024",
+    description:
+      "Built a 5-page web application using React, Tailwind CSS, Netlify, and Framer Motion, delivering a modern, responsive design with smooth animations and optimized performance.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/austin-2024-portfolio.appspot.com/o/Screenshot%202024-09-11%20at%2010.21.55%E2%80%AFAM.png?alt=media&token=08af66b8-cece-4f89-bdfc-fc513727dff6",
+    tags: ["React Js", "Tailwind", "Framer Motion", "Netlify"],
+    category: "web app",
+    github: "https://github.com/Atay365/the_neat_aesthetic",
+    webapp: "https://www.theneataesthetic.com",
     member: [],
   },
 ];
