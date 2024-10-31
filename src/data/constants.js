@@ -144,7 +144,7 @@ export const experiences = [
     role: "Supply Chain Engineer Consultant",
     company: "Accenture",
     date: "July 2022 - Mar 2024",
-    desc: "Led data analysis for a groundbreaking greenfield facility project, integrating multiple business sectors to enhance operational synergy. Spearheaded the development of a fully robotic Automated Storage and Retrieval System (ASRS), revolutionizing labor-free operations from inbound to outbound processes. Played a key role in a $100 million project, focusing on automation and efficiency. Actively involved in overhauling Warehouse Management Systems (WMS), ensuring seamless integration and operation. Fostered collaborations with automation vendors, conducted feasibility studies, and optimized processes across various industries.",
+    desc: "Led data analysis for a groundbreaking greenfield facility project, integrating multiple business sectors to enhance operational synergy. \nSpearheaded the development of a fully robotic Automated Storage and Retrieval System (ASRS), revolutionizing labor-free operations from inbound to outbound processes. \nPlayed a key role in a $100 million project, focusing on automation and efficiency. Actively involved in overhauling Warehouse Management Systems (WMS), ensuring seamless integration and operation. \nFostered collaborations with automation vendors, conducted feasibility studies, and optimized processes across various industries.",
     skills: [],
     doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
   },
