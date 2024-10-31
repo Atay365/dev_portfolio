@@ -99,7 +99,13 @@ const ExperienceCard = ({ experience }) => {
         </Body>
       </Top>
       <Description>
-        {experience.desc && <Span>{experience.desc}</Span>}
+        {experience.desc && (
+          <ul>
+            {experience.desc.map((item, index) => (
+              <li key={index}> {item}</li>
+            ))}
+          </ul>
+        )}
       </Description>
     </VerticalTimelineElement>
   );
