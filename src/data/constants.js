@@ -7,7 +7,7 @@ export const Bio = {
     "Edge-Walker",
   ],
   description:
-    "I’m a relentless problem solver and systems thinker with a unique blend of skills spanning software engineering, data analytics, and supply chain optimization. I thrive at the intersection of logic and creativity, where technical rigor meets innovative thinking. Whether I’m building full-stack applications, analyzing complex datasets, or streamlining warehouse processes, my approach is driven by an insatiable curiosity and a commitment to uncovering eureka moments. I don’t just find solutions—I engineer them with purpose, aiming to deliver impactful, data-driven results. If you’re seeking someone who can seamlessly navigate the worlds of code, data, and operations, let’s connect.",
+    "I’m a systems thinker and problem solver with expertise in software engineering, data analytics, and supply chain optimization. I thrive where logic meets creativity, using my diverse skill set to build impactful, data-driven solutions. Whether coding, analyzing, or strategizing, I’m driven by curiosity and a passion for uncovering eureka moments. Let’s connect if you’re looking for someone who can seamlessly navigate the worlds of code, data, and operations.",
   github: "https://github.com/atay365",
   resume:
     "https://docs.google.com/document/d/19yqOsG1XAa_wU1Ln1512hxWCcLEi4HVB/edit?usp=sharing&ouid=102865623764281265397&rtpof=true&sd=true",
