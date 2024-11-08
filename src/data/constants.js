@@ -1,16 +1,16 @@
 export const Bio = {
   name: "Derrick Austin Taylor",
   roles: [
-    "Full Stack Developer",
-    "Supply Chain Engineer",
-    "Programmer",
-    "Husband",
+    "Optimist-Realist",
+    "Architect of Systems",
+    "Engineer",
+    "Edge-Walker",
   ],
   description:
-    "I am a driven and adaptable Full Stack Developer with a background in Supply Chain Engineering. My passion for learning and dedication to delivering high-quality solutions define my approach. With a positive attitude and a growth mindset, I am excited to contribute meaningfully and achieve remarkable results in my next role.",
+    "I’m a relentless problem solver and systems thinker with a unique blend of skills spanning software engineering, data analytics, and supply chain optimization. I thrive at the intersection of logic and creativity, where technical rigor meets innovative thinking. Whether I’m building full-stack applications, analyzing complex datasets, or streamlining warehouse processes, my approach is driven by an insatiable curiosity and a commitment to uncovering eureka moments. I don’t just find solutions—I engineer them with purpose, aiming to deliver impactful, data-driven results. If you’re seeking someone who can seamlessly navigate the worlds of code, data, and operations, let’s connect.",
   github: "https://github.com/atay365",
   resume:
-    "https://docs.google.com/document/d/1iFQPJ2YipucON78XsxxpflmfXxOSfUmPLUOO157ivZs/edit?usp=sharing",
+    "https://docs.google.com/document/d/19yqOsG1XAa_wU1Ln1512hxWCcLEi4HVB/edit?usp=sharing&ouid=102865623764281265397&rtpof=true&sd=true",
   linkedin: "https://www.linkedin.com/in/derrick-a-taylor/",
   facebook: "https://www.facebook.com/austin.taylor.1253/",
 };
